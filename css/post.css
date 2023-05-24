@@ -1,6 +1,6 @@
 .single-post-container {
   display: grid;
-  grid-template-columns: 1fr ;
+  grid-template-columns: 1fr;
   grid-gap: 20px;
   justify-content: space-evenly;
   justify-items: center;
@@ -33,7 +33,7 @@
   margin-right: 10px;
 }
 
-.social-icons a { 
+.social-icons a {
   color: #000;
-  font-size:48px;
+  font-size: 48px;
 }
