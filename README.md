@@ -1,2 +1,2 @@
-# [udacity-frontend-nanodegrees-personal-blog-website](https://yousefalhindawi.github.io/udacity-frontend-nanodegrees-personal-blog-website/)
-Udacity frontend nanodegrees - personal blog website.
+# [personal-blog-website](https://yousefalhindawi.github.io/personal-blog-website/)
+Personal Blog website.
